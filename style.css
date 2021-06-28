@@ -1,0 +1,22 @@
+.anchor{
+    background-color: white;
+    border-radius: 20px;
+    width: 10%;
+}
+body{
+    background-size: cover;
+}
+
+.black{
+    background-color: black;
+    border-radius: 20px;
+    width: 10%;
+    font-size: 30px;    
+    color:white;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px burlywood;
+    border-radius: 10px;
+    border: 5px solid burlywood
+}
